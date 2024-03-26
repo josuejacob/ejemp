@@ -1,6 +1,6 @@
 Hola mundo
 
-Mi nombre es Josue Jacob Oropeza Rueda, tengo 24 aÑos de edad y soy programador
-Soy lic en ciencias en bioquimica y bio molecular, saludos!
+Mi nombre es Josue Jacob Oropeza Rueda, tengo 25 anios de edad y soy programador
+Soy lic en ciencias en BBM, saludos!
 
 Además quiero estudiar algo relacionado con inteligencia artificial
