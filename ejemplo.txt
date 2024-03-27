@@ -2,8 +2,7 @@ TITULO INICIAL:
 
 
 INDEX:
-1.-  INICIO
-2.- DESARROLLO
-3.- CONCLUSION
+1.-  INICIO: Hola mi nombre es Josue Jacob 
+2.- DESARROLLO: Vivo en cuernavaca, quiero ser programador
+3.- CONCLUSION: Quiero ser biofísico.
 
-Agregando linea solo para la rama de cabecera
