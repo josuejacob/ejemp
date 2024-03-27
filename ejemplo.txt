@@ -1,8 +1,8 @@
-TITULO INICIAL: 
-
 
 INDEX:
 1.-  INICIO: Hola mi nombre es Josue Jacob 
 2.- DESARROLLO: Vivo en cuernavaca, quiero ser programador
 3.- CONCLUSION: Quiero ser biofísico.
 
+Pie de pagina
+Grupo de estudios moleculares SA. de CV. 
