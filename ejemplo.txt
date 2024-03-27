@@ -10,3 +10,5 @@ Ademas quiero estudiar una maestría en fisica o biofísica.
 Ya estoy haciendo mi tesis en simulaciones de dinámica molecular
 
 Además hice multiples certificaciones, cursos y talleres con ayuda de Santander y CCTyEM
+
+Agregando linea solo para la rama de cabecera
